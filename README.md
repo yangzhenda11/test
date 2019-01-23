@@ -1,6 +1,6 @@
 #仿百度文库完整项目
 
-演示地址：[https://wenku.izerofx.com:8000/](https://wenku.izerofx.com:8000/)(服务器到期，暂时失效,已经不能访问test)
+演示地址：[https://wenku.izerofx.com:8000/](https://wenku.izerofx.com:8000/)(服务器到期，暂时失效,已经不能访问test1053)
 
 GitHub：[https://github.com/qjx378/wenku](https://github.com/qjx378/wenku)
 

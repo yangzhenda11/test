@@ -1,1 +1,2 @@
 1.git merge --no-ff **
+2.git rebase ** 当前分支与**分支同步

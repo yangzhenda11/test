@@ -1,4 +1,4 @@
 1.git merge --no-ff **
 2.git push origin **
 3.git rebase ** 当前分支与**分支同步
-4.git stash 
+4.git stash pop

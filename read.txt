@@ -1,6 +1,12 @@
 1.git merge --no-ff **
 2.git push origin **
 3.git rebase ** 当前分支与**分支同步
-4.git stash pop
+4.git checkout
+5.git merge
+6.git merge --no-ff
+4.git stash pop **
 5.git stash list
-
+6.git pull
+7.git pull --no-ff **
+8.git pull --no-ff
+9.git diff

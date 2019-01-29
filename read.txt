@@ -4,3 +4,6 @@
 4.git checkout
 5.git merge
 6.git merge --no-ff
+4.git stash pop
+5.git stash list
+6.git pull

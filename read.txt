@@ -9,4 +9,4 @@
 6.git pull
 7.git pull --no-ff **
 8.git pull --no-ff
-
+9.git diff

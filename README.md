@@ -2,7 +2,7 @@
 
 git stash
 
-演示地址：[https://wenku.izerofx.com:8000/](https://wenku.izerofx.com:8000/)(服务器到期，暂时失效,已经不能访问develop1155test)
+演示地址：[https://wenku.izerofx.com:8000/](https://wenku.izerofx.com:8000/)(服务器到期，暂时失效,已经不能访问)
 GitHub：[https://github.com/qjx378/wenku](https://github.com/qjx378/wenku)
 
 项目很多细节不完善，但大致可以用，主要用于入门学习。
@@ -24,7 +24,7 @@ GitHub：[https://github.com/qjx378/wenku](https://github.com/qjx378/wenku)
 * SWFTools 用于把pdf转成swf
 * zbus 用到了Zbus MQ处理转换的队列(ps:其实可以不用)
 
-#正在开发中……
+#正在开发中……请稍等
 * 正在开发网站配套的APP
 
 #以下是部分截图

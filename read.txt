@@ -3,3 +3,4 @@
 3.git rebase ** 当前分支与**分支同步
 4.git checkout
 5.git merge
+6.git merge --no-ff
